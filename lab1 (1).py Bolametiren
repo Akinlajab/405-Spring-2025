@@ -1,0 +1,6 @@
+stage1=2
+stage2=12
+stage3=17
+print(stage1,stage2,stage3)
+total=(stage1+stage2+stage3)
+print(total)
